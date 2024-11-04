@@ -9,6 +9,7 @@
 ## @param global.coordinating.name Coordinating name to be used in the Kibana subchart (service name)
 ## @param global.kibanaEnabled Whether or not to enable Kibana
 ##
+## This is mantra-mosip locally managed repository values.
 global:
   imageRegistry: ""
   ## E.g.
